@@ -4,7 +4,11 @@
   "version": "0.1",
 
   "browser_action": {
-    "default_icon": "icon.png"
+    "default_icon": "Block-Ads.png"
+  },
+  
+  "icons": {
+    "128": "Block-Ads.png"
   },
 
   "content_scripts": [
